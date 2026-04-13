@@ -2,3 +2,6 @@ https://docs.google.com/spreadsheets/d/10SkBJv6aXtpaE2AMFpJHXJnpBvVNU3lemKCvOnJb
 
 
 410 011 991https://fe-qc-done-i1x7eig5m-nguyenthanhtrung001s-projects.vercel.app/auth/login90194
+
+ngrok http --url=causal-jawfish-immune.ngrok-free.app 8888 --- 54825
+---- ngrok config add-authtoken 2oYtD4U4UGlbUhRm34PmZFI79PR_4UpLrW8SpY4xF6hEcLx7d
